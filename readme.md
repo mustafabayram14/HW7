@@ -1,6 +1,8 @@
 PUT YOUR QR CODE IMAGE
 ![QRCode](qr_codes/QRCode_20241101131745.png)
 
+![QRCode](QRCode_demo.png)
+
 PUT YOUR LOG IMAGE HERE
 ![IMAGE](Log.png)
 
